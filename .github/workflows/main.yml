@@ -1,0 +1,1 @@
+qmk compile -kb lyra:rev1 -km via
